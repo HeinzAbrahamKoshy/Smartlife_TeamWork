@@ -21,9 +21,9 @@ The backend of the application is managed using **Asynchronous Storage** and **F
 ``npx expo start``
 ## More Information on:
 ### React Native
-    Go to [React Native Dev](https://reactnative.dev/)
+    Go to https://reactnative.dev/
 ### Expo GO
-    Go to [Expo Go Dev](https://docs.expo.dev/)
+    Go to https://docs.expo.dev/
 
    
    
