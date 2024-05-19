@@ -8,7 +8,7 @@ The front end of the application is developed using **React Native** and **Expo 
 ## Back-end
 The backend of the application is managed using **Asynchronous Storage** and **File System** which are _API's_ provided by React Native and Expo Go
 ## Installation
-1. Download latest verison of [Node.js]([url](https://nodejs.org/en/download/prebuilt-installer))
+1. Download latest verison of [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 2. Navigate to project *directory*
 3. Open **Terminal**
    ### Install Project Dependencies
@@ -21,9 +21,9 @@ The backend of the application is managed using **Asynchronous Storage** and **F
 ``npx expo start``
 ## More Information on:
 ### React Native
-    Go to [React Native Dev]([url](https://reactnative.dev/))
+    Go to [React Native Dev](https://reactnative.dev/)
 ### Expo GO
-    Go to [Expo Go Dev]([url](https://docs.expo.dev/))
+    Go to [Expo Go Dev](https://docs.expo.dev/)
 
    
    
