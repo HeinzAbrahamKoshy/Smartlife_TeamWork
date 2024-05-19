@@ -24,10 +24,7 @@ The backend of the application is managed using **Asynchronous Storage** and **F
     https://reactnative.dev
 ## Expo GO
     https://docs.expo.dev/get-started/introduction
-# Results
-  1.Login
-  ![login1](https://github.com/heinzketchup2711/Smartlife_TeamWork/assets/91111233/0f2124ea-d492-47e7-a3cf-2f5a477ed4e2)
-  2.
+
 
    
    
